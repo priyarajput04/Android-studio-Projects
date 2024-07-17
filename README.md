@@ -1,4 +1,4 @@
-## Simple Android Studio Project Description
+## Simple Android Studio Project
 
 **Project Name:** MyFirstApp
 
